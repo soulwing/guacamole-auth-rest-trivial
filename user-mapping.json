@@ -1,0 +1,13 @@
+{
+  "bob": {
+    "password": "pass4bob",
+    "configurations": {
+      "ubuntu-server": {
+        "protocol": "SSH",
+        "parameters": {
+          "hostname": "192.168.56.2"
+        }
+      }
+    }
+  }
+}
