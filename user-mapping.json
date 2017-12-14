@@ -3,7 +3,7 @@
     "password": "pass4bob",
     "configurations": {
       "ubuntu-server": {
-        "protocol": "SSH",
+        "protocol": "ssh",
         "parameters": {
           "hostname": "192.168.56.2"
         }
